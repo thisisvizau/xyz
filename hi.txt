@@ -1,2 +1,0 @@
-"Hi, This is my initial set up"
-"v2"
